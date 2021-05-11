@@ -281,13 +281,13 @@ p {
     }
 
     .header-animado__ilustra .carrosCima {
-        background-image: url(/cenario_carroscima.png);
+      
         -webkit-animation: a 15s linear infinite reverse;
         animation: a 15s linear infinite reverse
     }
 
     .header-animado__ilustra .carrosBaixo {
-        background-image: url(/cenario_carrosbaixo.png);
+     
         -webkit-animation: a 15s linear infinite;
         animation: a 15s linear infinite
     }
